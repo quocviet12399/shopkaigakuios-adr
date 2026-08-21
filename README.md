@@ -1,0 +1,1 @@
+# shopkaigakuios-adr
